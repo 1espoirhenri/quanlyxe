@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/1espoirhenri/quanlyxe/static/css/main.b89acf7d.css",
+    "main.js": "/1espoirhenri/quanlyxe/static/js/main.495193f3.js",
+    "static/js/488.0f646638.chunk.js": "/1espoirhenri/quanlyxe/static/js/488.0f646638.chunk.js",
+    "index.html": "/1espoirhenri/quanlyxe/index.html",
+    "main.b89acf7d.css.map": "/1espoirhenri/quanlyxe/static/css/main.b89acf7d.css.map",
+    "main.495193f3.js.map": "/1espoirhenri/quanlyxe/static/js/main.495193f3.js.map",
+    "488.0f646638.chunk.js.map": "/1espoirhenri/quanlyxe/static/js/488.0f646638.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b89acf7d.css",
+    "static/js/main.495193f3.js"
+  ]
+}
